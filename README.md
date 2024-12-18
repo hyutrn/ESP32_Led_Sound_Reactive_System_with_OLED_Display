@@ -9,7 +9,7 @@ The project utilizes an ESP32 microcontroller and an SSD1306 OLED display to pro
 
 - **Four LED modes**: default, breathing, flashing, chasing, and sound-reactive mode.
 - **OLED display**: showing the current LED mode and timer status.
-- **BUttons**: Two push buttons for mode selection and reset functionality.
+- **Buttons**: Two push buttons for mode selection and reset functionality.
 - **Timer**: functionality that can be set for 1, 2, or 3 minutes.
 - **Sound-responsive**: LED behavior based on microphone input, adjusting the brightness of all three LEDs.
 - **PWM**: Uses PWM to control LED brightness for smooth transitions.
